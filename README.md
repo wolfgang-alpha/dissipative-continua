@@ -2,7 +2,7 @@
 
 LaTeX sources, simulation code and data for
 
-> W. Flachberger and L. Einkemmer, *Variational principles for dissipative continua: transport theorems, inertia, and the minimum–maximum duality*, submitted to Physics of Fluids.
+> W. Flachberger and L. Einkemmer, *Variational principles for dissipative continua: transport theorems, inertia, and the minimum–maximum duality*, submitted to Physics of Fluids. Preprint: [arXiv:2611.12045](https://arxiv.org/abs/2611.12045).
 
 ## Contents
 
