@@ -1,0 +1,23 @@
+# Whitelist: only the files needed to build the paper and reproduce Fig. 1 are tracked.
+# Drafts, backups, notes, recordings and third-party PDFs stay local.
+/*
+!/.gitignore
+!/README.md
+!/main.tex
+!/fig-cavity-phases.pdf
+!/pof/
+!/sim/
+
+# LaTeX build products
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*Notes.bib
+/pof/main.pdf
+
+# private submission notes (suggested reviewers etc.)
+/pof/SUBMISSION.md
