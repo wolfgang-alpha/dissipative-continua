@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Wolfgang Flachberger
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Figure: three phases of unsteady Stokes cavity flow (dissipation, lid power, kinetic energy)."""
 import sys
 import numpy as np

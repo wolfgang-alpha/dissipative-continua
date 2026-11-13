@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Wolfgang Flachberger
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Unsteady Stokes flow in a lid-driven square cavity: three phases in one computation.
 
   A  lid started from rest        driven, non-stationary   (no extremal statement about P)

@@ -61,3 +61,9 @@ Each `.npz` file holds the array `rec` with one row per time step. Its columns a
 9. consistent lid power
 
 It also holds the scalars `K_S`, `P_S` (steady Stokes values), `W_S`, `Wc_S` (steady lid power), `t_B` (time to within 0.1 % of P_S), `T_off`, `N` and `dt`.
+
+## License
+
+The code in `sim/` is free software under the [GNU General Public License v3.0 or later](LICENSE). The simulation results in `sim/` are distributed under the same terms.
+
+The manuscript is not covered by this license. This means the LaTeX sources, the text and the figures in the root folder and in `pof/` remain © the authors. They are provided here so the paper can be built and checked.
